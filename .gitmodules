@@ -1,3 +1,6 @@
 [submodule "pwa-mobile-app"]
 	path = pwa-mobile-app
 	url = https://github.com/el173/pwa-mobile-app.git
+[submodule "pwa-web-app"]
+	path = pwa-web-app
+	url = https://github.com/el173/pwa-web-app.git
