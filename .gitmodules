@@ -4,3 +4,6 @@
 [submodule "pwa-web-app"]
 	path = pwa-web-app
 	url = https://github.com/el173/pwa-web-app.git
+[submodule "pwa-server-app"]
+	path = pwa-server-app
+	url = https://github.com/el173/pwa-server-app.git
